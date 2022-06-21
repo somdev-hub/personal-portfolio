@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "emailjs": "^4.0.0",
+    "swiper": "^8.1.6"
+  }
+}
